@@ -38,8 +38,8 @@ Before running this application, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/hotel-reservation-system.git
-cd hotel-reservation-system
+git clone https://github.com/Joelorbit/Hotel-Reservation-System.git
+cd Hotel-Reservation-System
 ```
 
 ### 2. Database Setup
