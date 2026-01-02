@@ -52,7 +52,7 @@ cd Hotel-Reservation-System
 mysql -u root -p hotel_db < hotel_db.sql
 ```
 
-**Note**: Update the database credentials in the servlet files if your MySQL username/password differs from `root` / `Joelget@4`.
+**Note**: Update the database credentials in the servlet files if your MySQL username/password differs from `root` / `ur password`.
 
 ### 3. Open in NetBeans
 
