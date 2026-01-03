@@ -159,53 +159,6 @@ hotel/
 └── README.md
 ```
 
-## Contributing
-
-We welcome contributions to improve the Hotel Reservation System! Here's how you can contribute:
-
-### 1. Fork the Repository
-
-Click the "Fork" button at the top right of this repository.
-
-### 2. Create a Feature Branch
-
-```bash
-git checkout -b feature/your-feature-name
-```
-
-### 3. Make Your Changes
-
-- Follow the existing code style and conventions
-- Add comments for complex logic
-- Test your changes thoroughly
-
-### 4. Commit Your Changes
-
-```bash
-git commit -m "Add: Brief description of your changes"
-```
-
-### 5. Push to Your Branch
-
-```bash
-git push origin feature/your-feature-name
-```
-
-### 6. Create a Pull Request
-
-1. Go to the original repository
-2. Click "New Pull Request"
-3. Select your feature branch
-4. Provide a clear description of your changes
-5. Submit the pull request
-
-### Development Guidelines
-
-- **Code Style**: Follow Java naming conventions and keep code clean and readable
-- **Testing**: Test all new features and bug fixes
-- **Documentation**: Update this README if you add new features
-- **Commits**: Use clear, descriptive commit messages
-
 ## Database Schema
 
 The application uses a MySQL database with the following main tables:
@@ -247,8 +200,6 @@ If you encounter issues:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Screenshots
-
-_Add screenshots of the application here_
 
 - Login Page
   ![Login](images/Login.jpg)
