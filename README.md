@@ -1,6 +1,6 @@
 # Hotel Reservation System (HRS)
 
-A comprehensive web-based hotel booking application built with **Java Servlets, JSP, and HTML**. The system allows users to register, log in, browse available rooms, make reservations, and manage their bookings. It also includes a full-featured **admin panel** for managing users, bookings, and rooms.
+A comprehensive web-based hotel booking application built with Java Servlets, JSP, and HTML. This system allows users to register, login, browse available rooms, make reservations, and manage their bookings seamlessly. It also includes an admin panel for managing users, bookings, and rooms through full CRUD operations.
 
 ---
 
